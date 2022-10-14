@@ -1,0 +1,10 @@
+1.survey zip-----extract it
+2.using xampp activate mysql and apache server
+3.search localhost--- phpmyadmin
+4.create database and add the php file(survey_db) insider the database.
+5.make own user id and password to access the file
+5.then run the file.
+
+Admin
+user: admin@admin.com
+pass: admin123
